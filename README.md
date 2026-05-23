@@ -1,4 +1,4 @@
-# AI-NOC-Assistant
+# MCP Multi-Agent Network Operations Project
 
 ## Overview
 This project demonstrates how to use MCP (Model Context Protocol) servers and agents to automate real-world IT operations tasks. It features a modular, multi-agent system that orchestrates ServiceNow incident management and Cisco network troubleshooting, making it a practical reference for anyone interested in scalable automation and AI-driven workflows.

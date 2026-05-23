@@ -1,0 +1,25 @@
+# Core Python dependencies
+python-dotenv
+streamlit
+langchain
+langchain-groq
+fastmcp
+requests
+psutil
+netmiko
+
+# For MCP/agent orchestration
+langchain-mcp-adapters
+
+# For ServiceNow API integration
+requests
+
+# For network troubleshooting
+netmiko
+psutil
+
+# For async operations
+asyncio
+
+# Optional: For Jupyter/Notebook support (if needed)
+# jupyter
